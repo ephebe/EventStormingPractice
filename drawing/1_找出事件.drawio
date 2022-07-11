@@ -4,62 +4,65 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="New User Registered" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="80" width="80" height="80" as="geometry"/>
+                <mxCell id="2" value="New User Registered" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="610" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="User Registration Confirmed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="270" y="70" width="80" height="80" as="geometry"/>
+                <mxCell id="3" value="User Registration Confirmed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="610" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;span&gt;User Registration Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="180" width="80" height="80" as="geometry"/>
+                <mxCell id="4" value="&lt;span&gt;User Registration Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="350" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="User Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="470" y="80" width="80" height="80" as="geometry"/>
+                <mxCell id="5" value="User Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="610" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Member Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="530" y="190" width="80" height="80" as="geometry"/>
+                <mxCell id="6" value="Member Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="30" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Player Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="410" y="190" width="80" height="80" as="geometry"/>
+                <mxCell id="7" value="Player Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="610" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Meeting Group Proposed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="350" width="80" height="80" as="geometry"/>
+                <mxCell id="8" value="Meeting Group Proposed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="30" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Meeting Group Proposal Verification Requested" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="240" y="350" width="80" height="80" as="geometry"/>
+                <mxCell id="9" value="Meeting Group Proposal Verification Requested" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="40" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Meeting Group Proposal Accepted" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="400" y="310" width="80" height="80" as="geometry"/>
+                <mxCell id="10" value="Meeting Group Proposal Accepted" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="40" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Meeting Group Proposal Rejected" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="410" y="410" width="80" height="80" as="geometry"/>
+                <mxCell id="11" value="Meeting Group Proposal Rejected" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="140" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Meeting Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="550" width="80" height="80" as="geometry"/>
+                <mxCell id="12" value="Meeting Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Meeting Attendee Added" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="540" width="80" height="80" as="geometry"/>
+                <mxCell id="13" value="Meeting Attendee Added" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="240" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Meeting Not Attendee Added" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="640" width="80" height="80" as="geometry"/>
+                <mxCell id="14" value="Meeting Not Attendee Added" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="240" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Meeting Canceled" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="740" width="80" height="80" as="geometry"/>
+                <mxCell id="15" value="Meeting Canceled" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="260" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Member To Waitlist Signed Up" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="380" y="530" width="80" height="80" as="geometry"/>
+                <mxCell id="16" value="Member To Waitlist Signed Up" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="250" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Member From Waitlist Signed Off" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="380" y="630" width="80" height="80" as="geometry"/>
+                <mxCell id="17" value="Member From Waitlist Signed Off" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="370" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Meeting Host Set" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="380" y="750" width="80" height="80" as="geometry"/>
+                <mxCell id="18" value="Meeting Host Set" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="360" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="Meeting Payment Created&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="560" width="80" height="80" as="geometry"/>
+                <mxCell id="19" value="Meeting Payment Created&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="500" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="Meeting Payed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="670" width="80" height="80" as="geometry"/>
+                <mxCell id="20" value="Meeting Payed" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="500" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;User Registration Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="710" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
