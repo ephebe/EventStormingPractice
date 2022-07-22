@@ -28,6 +28,8 @@
 https://ithelp.ithome.com.tw/articles/10223936
 
 ## 四、劃分限界上下文 ##
-這可能是整個分析最抽象的部分，有誰知該拆幾組，讓整個限界上下文保持在最簡單的關系。
+根據原作者的建議，拆成User Access、Administrator、Meetings、Payments。Meetings是核心域、Payment與Administrator是支撐域、User Access算通用域。
+
+https://ithelp.ithome.com.tw/articles/10216798
 
 以上大概我自我學習留下的記錄
