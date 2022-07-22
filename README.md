@@ -23,7 +23,7 @@
 4. 凡是要付錢的都是Payer, 不分Member or User。Payer支付會議費用透過一個Payment System的外部系統
 
 ## 三、決定Aggregate ##
-關於Aggregate的概念請看這個，與DDD的概念是相同。那Policy應該就可以對應Domain Service。
+關於Aggregate的概念請看這個，與DDD的概念是相同。
 
 https://ithelp.ithome.com.tw/articles/10223936
 
@@ -32,4 +32,4 @@ https://ithelp.ithome.com.tw/articles/10223936
 
 https://ithelp.ithome.com.tw/articles/10216798
 
-以上大概我自我學習留下的記錄
+接下來我也會學習用這次分析，把系統做出來
