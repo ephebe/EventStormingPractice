@@ -15,7 +15,7 @@
 4. 會議成員加入後，都要支付Meeting Fee與Meeting Meet Payement
 5. 一般成員可以訂閱Meeting Group，並支付訂閱的費用
 
-![排事件](images/EventStorming/1_排事件.svg)
+![排事件](Images/EventStorming/1_排事件.svg)
 
 ## 二、角色命令流程 ##
 加上事件對應的指令，為指令加上角色，當事件觸發指令通常有個規則，再補上外部系統
@@ -24,20 +24,20 @@
 3. Meeting Group Organizer加入會議成員，根據Meeting Fee Policy，建立應該支付的費用
 4. 凡是要付錢的都是Payer, 不分Member or User。Payer支付會議費用透過一個Payment System的外部系統
 
-![角色命令流程](images/EventStorming/2_角色命令流程.svg)
+![角色命令流程](Images/EventStorming/2_角色命令流程.svg)
 
 ## 三、決定Aggregate ##
 關於Aggregate的概念請看這個，與DDD的概念是相同。
 
 https://ithelp.ithome.com.tw/articles/10223936
 
-![決定Aggregate](images/EventStorming/3_決定Aggregate.svg)
+![決定Aggregate](Images/EventStorming/3_決定Aggregate.svg)
 
 ## 四、劃分限界上下文 ##
 根據原作者的建議，拆成User Access、Administrator、Meetings、Payments。Meetings是核心域、Payment與Administrator是支撐域、User Access算通用域。
 
 https://ithelp.ithome.com.tw/articles/10216798
 
-![劃分限界上下文](images/EventStorming/4_劃分限界上下文.svg)
+![劃分限界上下文](Images/EventStorming/4_劃分限界上下文.svg)
 
 接下來我也會學習用這次分析，把系統做出來
