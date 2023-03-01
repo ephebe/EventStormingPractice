@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="XUWz4Bbc95z4d-4o7Gqc" name="第1頁">
-        <mxGraphModel dx="983" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+        <mxGraphModel dx="1078" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,119 +10,110 @@
                 <mxCell id="3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;User Registration Confirmed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="140" y="20" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;User Registration Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="110" width="80" height="80" as="geometry"/>
-                </mxCell>
                 <mxCell id="5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;User Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="240" y="20" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="320" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Group Proposal Accepted&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="600" y="20" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Group Proposal Rejected&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="600" y="120" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="130" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Member Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="340" y="20" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Attendee Added&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Member To Waitlist Signed Up&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="420" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Member From Waitlist Signed Off&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="420" width="80" height="80" as="geometry"/>
+                <mxCell id="19" value="Meeting&lt;br&gt;Waitlist&lt;br&gt;Member&lt;br&gt;Added" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="410" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Not Attendee Added&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="330" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="320" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Host Set&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="510" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="500" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Canceled&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="600" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="590" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Payer Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="340" y="110" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting&amp;nbsp; Fee Payment Payed&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="710" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting&amp;nbsp; Fee Payed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="800" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Meeting Group Proposed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="510" y="20" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="40" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="Meeting Fee Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="520" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="Meeting Fee Payment Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="340" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="620" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="Meeting Attendee Fee Paid Domain Event" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="610" y="240" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="890" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="Subscription Payemnt Created&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="240" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Payemnt Paid&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="330" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="610" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Expiration Date Changed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="700" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="510" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Renewed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="530" y="600" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="330" y="950" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Renew Payment Created&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="600" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="240" y="950" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Date Passed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="790" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="600" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="880" y="370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="690" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="Payment Subscription&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;nbsp;&lt;br&gt;Date Passed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="470" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="330" y="820" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="Subscription Payemnt Expired" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="610" y="470" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="820" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Renew Payment Date Passed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="600" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="420" y="950" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Subscription Payment Expired&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="710" y="600" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="510" y="950" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="Price List Item Created&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="780" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="40" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Price List Item Changed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="740" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Price List Item Activated&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="830" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="810" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="55" value="Price List Item Deactivated" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="930" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="900" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Price List Item Changed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="740" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="59" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Price List Item Changed&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-                    <mxGeometry x="170" y="740" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="140" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="Meeting&lt;br&gt;Group&lt;br&gt;Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-                    <mxGeometry x="710" y="20" width="80" height="80" as="geometry"/>
+                <mxCell id="60" value="Meeting&lt;br&gt;Group&lt;br&gt;Created" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="230" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
